@@ -34,3 +34,6 @@ Cypress.Commands.add("selectProduct", (productName) => {
 });
 
 console.log("Git fetch command");
+console.log("Git fetch command");
+console.log("Git fetch command");
+console.log("Git fetch command");
