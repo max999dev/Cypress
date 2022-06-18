@@ -32,3 +32,5 @@ Cypress.Commands.add("selectProduct", (productName) => {
     console.log("some chenge here");
   });
 });
+
+console.log("Git fetch command");
